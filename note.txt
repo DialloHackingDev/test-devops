@@ -1,0 +1,21 @@
+
+
+Repertoire :Master ou Main
+
+Master:Calclulator: ## designer l'ux : Master ##----release-v0
+|
+|
+|
+|
+features-add-number----------Tester ----- Master(tester sur le master) ##----release-v1 role-back vers ----release-v0
+
+
+
+
+Main et Master son les branch les plus à jour
+
+la banche feature permet d'ajouter une nouvelle fonctionnalites
+
+la branche release delivre une version du projet au users
+
+fixing branch 
